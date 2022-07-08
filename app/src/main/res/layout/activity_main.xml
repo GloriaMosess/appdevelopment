@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:background="#121212"
+    >
+
+    <Button
+        android:id="@+id/bwalyaButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bwalya"
+        android:backgroundTint="#CF66E1"/>
+
+    <Button
+        android:id="@+id/gloriaButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gloria"
+        android:backgroundTint="#575454"/>
+
+    <Button
+        android:id="@+id/phalessButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phaless"
+        android:backgroundTint="#446A0A"/>
+
+    <Button
+        android:id="@+id/gabbyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gabby" />
+</LinearLayout>
